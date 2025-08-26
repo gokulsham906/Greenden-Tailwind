@@ -8,5 +8,5 @@ menuicon.addEventListener("click", function () {
 });
 
 closenav.addEventListener("click", function () {
-  sidenav.style.right = "-100%";
+  sidenav.style.right = "-95%";
 });
